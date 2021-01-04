@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: 6aa507e44e3ec424792ad1b60d065b43
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: environment_building_liantiefang_001_07
+    100002: environment_building_liantiefang_001_12
+    100004: environment_building_liantiefang_001_05
+    100006: environment_building_liantiefang_001_09
+    100008: environment_building_liantiefang_001_06
+    100010: environment_building_liantiefang_001_10
+    100012: environment_building_liantiefang_001_04
+    100014: environment_building_liantiefang_001_11
+    100016: environment_building_liantiefang_001_03
+    100018: //RootNode
+    100020: environment_building_liantiefang_001_01
+    100022: environment_building_liantiefang_001_08
+    100024: environment_building_liantiefang_001_02
+    400000: environment_building_liantiefang_001_07
+    400002: environment_building_liantiefang_001_12
+    400004: environment_building_liantiefang_001_05
+    400006: environment_building_liantiefang_001_09
+    400008: environment_building_liantiefang_001_06
+    400010: environment_building_liantiefang_001_10
+    400012: environment_building_liantiefang_001_04
+    400014: environment_building_liantiefang_001_11
+    400016: environment_building_liantiefang_001_03
+    400018: //RootNode
+    400020: environment_building_liantiefang_001_01
+    400022: environment_building_liantiefang_001_08
+    400024: environment_building_liantiefang_001_02
+    2300000: environment_building_liantiefang_001_07
+    2300002: environment_building_liantiefang_001_12
+    2300004: environment_building_liantiefang_001_05
+    2300006: environment_building_liantiefang_001_09
+    2300008: environment_building_liantiefang_001_06
+    2300010: environment_building_liantiefang_001_10
+    2300012: environment_building_liantiefang_001_04
+    2300014: environment_building_liantiefang_001_11
+    2300016: environment_building_liantiefang_001_03
+    2300018: environment_building_liantiefang_001_01
+    2300020: environment_building_liantiefang_001_08
+    2300022: environment_building_liantiefang_001_02
+    3300000: environment_building_liantiefang_001_07
+    3300002: environment_building_liantiefang_001_12
+    3300004: environment_building_liantiefang_001_05
+    3300006: environment_building_liantiefang_001_09
+    3300008: environment_building_liantiefang_001_06
+    3300010: environment_building_liantiefang_001_10
+    3300012: environment_building_liantiefang_001_04
+    3300014: environment_building_liantiefang_001_11
+    3300016: environment_building_liantiefang_001_03
+    3300018: environment_building_liantiefang_001_01
+    3300020: environment_building_liantiefang_001_08
+    3300022: environment_building_liantiefang_001_02
+    4300000: environment_building_liantiefang_001_06
+    4300002: environment_building_liantiefang_001_04
+    4300004: environment_building_liantiefang_001_09
+    4300006: environment_building_liantiefang_001_08
+    4300008: environment_building_liantiefang_001_10
+    4300010: environment_building_liantiefang_001_07
+    4300012: environment_building_liantiefang_001_12
+    4300014: environment_building_liantiefang_001_11
+    4300016: environment_building_liantiefang_001_03
+    4300018: environment_building_liantiefang_001_02
+    4300020: environment_building_liantiefang_001_01
+    4300022: environment_building_liantiefang_001_05
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

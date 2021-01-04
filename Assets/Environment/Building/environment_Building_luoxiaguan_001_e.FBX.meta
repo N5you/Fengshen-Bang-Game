@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 7ddc11f4f804efa49829e1627a1f3319
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: environment_Building_luoxiaguan_001_e01
+    100004: environment_Building_luoxiaguan_001_e02
+    100006: environment_Building_luoxiaguan_001_e03
+    100008: environment_Building_luoxiaguan_001_e04
+    100010: environment_Building_luoxiaguan_001_e05
+    100012: environment_Building_luoxiaguan_001_e06
+    100014: environment_Building_luoxiaguan_001_e07
+    100016: environment_Building_luoxiaguan_001_e08
+    100018: environment_Building_luoxiaguan_001_e09
+    100020: environment_Building_luoxiaguan_001_e10
+    100022: environment_Building_luoxiaguan_001_e11
+    400000: //RootNode
+    400002: environment_Building_luoxiaguan_001_e01
+    400004: environment_Building_luoxiaguan_001_e02
+    400006: environment_Building_luoxiaguan_001_e03
+    400008: environment_Building_luoxiaguan_001_e04
+    400010: environment_Building_luoxiaguan_001_e05
+    400012: environment_Building_luoxiaguan_001_e06
+    400014: environment_Building_luoxiaguan_001_e07
+    400016: environment_Building_luoxiaguan_001_e08
+    400018: environment_Building_luoxiaguan_001_e09
+    400020: environment_Building_luoxiaguan_001_e10
+    400022: environment_Building_luoxiaguan_001_e11
+    2300000: environment_Building_luoxiaguan_001_e01
+    2300002: environment_Building_luoxiaguan_001_e02
+    2300004: environment_Building_luoxiaguan_001_e03
+    2300006: environment_Building_luoxiaguan_001_e04
+    2300008: environment_Building_luoxiaguan_001_e05
+    2300010: environment_Building_luoxiaguan_001_e06
+    2300012: environment_Building_luoxiaguan_001_e07
+    2300014: environment_Building_luoxiaguan_001_e08
+    2300016: environment_Building_luoxiaguan_001_e09
+    2300018: environment_Building_luoxiaguan_001_e10
+    2300020: environment_Building_luoxiaguan_001_e11
+    3300000: environment_Building_luoxiaguan_001_e01
+    3300002: environment_Building_luoxiaguan_001_e02
+    3300004: environment_Building_luoxiaguan_001_e03
+    3300006: environment_Building_luoxiaguan_001_e04
+    3300008: environment_Building_luoxiaguan_001_e05
+    3300010: environment_Building_luoxiaguan_001_e06
+    3300012: environment_Building_luoxiaguan_001_e07
+    3300014: environment_Building_luoxiaguan_001_e08
+    3300016: environment_Building_luoxiaguan_001_e09
+    3300018: environment_Building_luoxiaguan_001_e10
+    3300020: environment_Building_luoxiaguan_001_e11
+    4300000: environment_Building_luoxiaguan_001_e01
+    4300002: environment_Building_luoxiaguan_001_e02
+    4300004: environment_Building_luoxiaguan_001_e03
+    4300006: environment_Building_luoxiaguan_001_e04
+    4300008: environment_Building_luoxiaguan_001_e05
+    4300010: environment_Building_luoxiaguan_001_e06
+    4300012: environment_Building_luoxiaguan_001_e07
+    4300014: environment_Building_luoxiaguan_001_e08
+    4300016: environment_Building_luoxiaguan_001_e09
+    4300018: environment_Building_luoxiaguan_001_e10
+    4300020: environment_Building_luoxiaguan_001_e11
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: environment_Building_luoxiaguan_001_e11
+    second: {fileID: 2100000, guid: 9d01592648eb34048a4d1d22aab5c1af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: environment_Building_luoxiaguan_001_e13
+    second: {fileID: 2100000, guid: 8a185e136a9450c47b2a3f14ac4cc886, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: environment_Building_luoxiaguan_001_e15
+    second: {fileID: 2100000, guid: 76d94a8bb97396c4282b3e3c6242085c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: environment_Building_luoxiaguan_001_e16
+    second: {fileID: 2100000, guid: 9da0814e57119a544a055207cc190112, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: environment_Building_luoxiaguan_001_e17
+    second: {fileID: 2100000, guid: c2f5935a86db89346b42ba338228249d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: environment_Building_luoxiaguan_001_e18
+    second: {fileID: 2100000, guid: 60223062ee5d03b4d8fe85c32f91f783, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: environment_Building_luoxiaguan_001_e2
+    second: {fileID: 2100000, guid: a9aea2192944271448e8ccb402ad81fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: environment_Building_luoxiaguan_001_e3
+    second: {fileID: 2100000, guid: 8e97eb1dbaf1a554d9e5e37ee08ab14f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: environment_Building_luoxiaguan_001_e4
+    second: {fileID: 2100000, guid: 5285bab5ce07ae8468c54af7574979ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: environment_Building_luoxiaguan_001_e5
+    second: {fileID: 2100000, guid: be348c19c195ea0459523c8476670ee1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: environment_Building_luoxiaguan_001_e7
+    second: {fileID: 2100000, guid: c881508077d7a2047894d4800417dedb, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

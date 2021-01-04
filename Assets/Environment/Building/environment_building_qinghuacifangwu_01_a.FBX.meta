@@ -1,0 +1,365 @@
+fileFormatVersion: 2
+guid: 1765e7120b869e04c94e6d3524313330
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: environment_building_qinghuacifangwu_01_g0
+    100004: environment_building_qinghuacifangwu_01_g1
+    100006: environment_building_qinghuacifangwu_01_h0
+    100008: environment_building_qinghuacifangwu_01_h1
+    100010: environment_building_qinghuacifangwu_01_h4
+    100012: environment_building_qinghuacifangwu_01_h2
+    100014: environment_building_qinghuacifangwu_01_h3
+    100016: environment_building_qinghuacifangwu_01_i1
+    100018: environment_building_qinghuacifangwu_01_i2
+    100020: environment_building_qinghuacifangwu_01_i5
+    100022: environment_building_qinghuacifangwu_01_i3
+    100024: environment_building_qinghuacifangwu_01_i4
+    100026: environment_building_qinghuacifangwu_01_i6
+    100028: environment_building_qinghuacifangwu_01_i7
+    100030: environment_building_qinghuacifangwu_01_e0
+    100032: environment_building_qinghuacifangwu_01_e1
+    100034: environment_building_qinghuacifangwu_01_e5
+    100036: environment_building_qinghuacifangwu_01_e4
+    100038: environment_building_qinghuacifangwu_01_e3
+    100040: environment_building_qinghuacifangwu_01_e6
+    100042: environment_building_qinghuacifangwu_01_f2
+    100044: environment_building_qinghuacifangwu_01_f3
+    100046: environment_building_qinghuacifangwu_01_f1
+    100048: environment_building_qinghuacifangwu_01_f0
+    100050: environment_building_qinghuacifangwu_01_d1
+    100052: environment_building_qinghuacifangwu_01_b0
+    100054: environment_building_qinghuacifangwu_01_d2
+    100056: environment_building_qinghuacifangwu_01_d0
+    100058: environment_building_qinghuacifangwu_01_c3
+    100060: environment_building_qinghuacifangwu_01_c2
+    100062: environment_building_qinghuacifangwu_01_c1
+    100064: environment_building_qinghuacifangwu_01_c0
+    100066: environment_building_qinghuacifangwu_01_a7
+    100068: environment_building_qinghuacifangwu_01_a5
+    100070: environment_building_qinghuacifangwu_01_a3
+    100072: environment_building_qinghuacifangwu_01_a6
+    100074: environment_building_qinghuacifangwu_01_a4
+    100076: environment_building_qinghuacifangwu_01_a1
+    100078: environment_building_qinghuacifangwu_01_a0
+    100080: environment_building_qinghuacifangwu_01_a2
+    400000: //RootNode
+    400002: environment_building_qinghuacifangwu_01_g0
+    400004: environment_building_qinghuacifangwu_01_g1
+    400006: environment_building_qinghuacifangwu_01_h0
+    400008: environment_building_qinghuacifangwu_01_h1
+    400010: environment_building_qinghuacifangwu_01_h4
+    400012: environment_building_qinghuacifangwu_01_h2
+    400014: environment_building_qinghuacifangwu_01_h3
+    400016: environment_building_qinghuacifangwu_01_i1
+    400018: environment_building_qinghuacifangwu_01_i2
+    400020: environment_building_qinghuacifangwu_01_i5
+    400022: environment_building_qinghuacifangwu_01_i3
+    400024: environment_building_qinghuacifangwu_01_i4
+    400026: environment_building_qinghuacifangwu_01_i6
+    400028: environment_building_qinghuacifangwu_01_i7
+    400030: environment_building_qinghuacifangwu_01_e0
+    400032: environment_building_qinghuacifangwu_01_e1
+    400034: environment_building_qinghuacifangwu_01_e5
+    400036: environment_building_qinghuacifangwu_01_e4
+    400038: environment_building_qinghuacifangwu_01_e3
+    400040: environment_building_qinghuacifangwu_01_e6
+    400042: environment_building_qinghuacifangwu_01_f2
+    400044: environment_building_qinghuacifangwu_01_f3
+    400046: environment_building_qinghuacifangwu_01_f1
+    400048: environment_building_qinghuacifangwu_01_f0
+    400050: environment_building_qinghuacifangwu_01_d1
+    400052: environment_building_qinghuacifangwu_01_b0
+    400054: environment_building_qinghuacifangwu_01_d2
+    400056: environment_building_qinghuacifangwu_01_d0
+    400058: environment_building_qinghuacifangwu_01_c3
+    400060: environment_building_qinghuacifangwu_01_c2
+    400062: environment_building_qinghuacifangwu_01_c1
+    400064: environment_building_qinghuacifangwu_01_c0
+    400066: environment_building_qinghuacifangwu_01_a7
+    400068: environment_building_qinghuacifangwu_01_a5
+    400070: environment_building_qinghuacifangwu_01_a3
+    400072: environment_building_qinghuacifangwu_01_a6
+    400074: environment_building_qinghuacifangwu_01_a4
+    400076: environment_building_qinghuacifangwu_01_a1
+    400078: environment_building_qinghuacifangwu_01_a0
+    400080: environment_building_qinghuacifangwu_01_a2
+    2300000: environment_building_qinghuacifangwu_01_g0
+    2300002: environment_building_qinghuacifangwu_01_g1
+    2300004: environment_building_qinghuacifangwu_01_h0
+    2300006: environment_building_qinghuacifangwu_01_h1
+    2300008: environment_building_qinghuacifangwu_01_h4
+    2300010: environment_building_qinghuacifangwu_01_h2
+    2300012: environment_building_qinghuacifangwu_01_h3
+    2300014: environment_building_qinghuacifangwu_01_i1
+    2300016: environment_building_qinghuacifangwu_01_i2
+    2300018: environment_building_qinghuacifangwu_01_i5
+    2300020: environment_building_qinghuacifangwu_01_i3
+    2300022: environment_building_qinghuacifangwu_01_i4
+    2300024: environment_building_qinghuacifangwu_01_i6
+    2300026: environment_building_qinghuacifangwu_01_i7
+    2300028: environment_building_qinghuacifangwu_01_e0
+    2300030: environment_building_qinghuacifangwu_01_e1
+    2300032: environment_building_qinghuacifangwu_01_e5
+    2300034: environment_building_qinghuacifangwu_01_e4
+    2300036: environment_building_qinghuacifangwu_01_e3
+    2300038: environment_building_qinghuacifangwu_01_e6
+    2300040: environment_building_qinghuacifangwu_01_f2
+    2300042: environment_building_qinghuacifangwu_01_f3
+    2300044: environment_building_qinghuacifangwu_01_f1
+    2300046: environment_building_qinghuacifangwu_01_f0
+    2300048: environment_building_qinghuacifangwu_01_d1
+    2300050: environment_building_qinghuacifangwu_01_b0
+    2300052: environment_building_qinghuacifangwu_01_d2
+    2300054: environment_building_qinghuacifangwu_01_d0
+    2300056: environment_building_qinghuacifangwu_01_c3
+    2300058: environment_building_qinghuacifangwu_01_c2
+    2300060: environment_building_qinghuacifangwu_01_c1
+    2300062: environment_building_qinghuacifangwu_01_c0
+    2300064: environment_building_qinghuacifangwu_01_a7
+    2300066: environment_building_qinghuacifangwu_01_a5
+    2300068: environment_building_qinghuacifangwu_01_a3
+    2300070: environment_building_qinghuacifangwu_01_a6
+    2300072: environment_building_qinghuacifangwu_01_a4
+    2300074: environment_building_qinghuacifangwu_01_a1
+    2300076: environment_building_qinghuacifangwu_01_a0
+    2300078: environment_building_qinghuacifangwu_01_a2
+    3300000: environment_building_qinghuacifangwu_01_g0
+    3300002: environment_building_qinghuacifangwu_01_g1
+    3300004: environment_building_qinghuacifangwu_01_h0
+    3300006: environment_building_qinghuacifangwu_01_h1
+    3300008: environment_building_qinghuacifangwu_01_h4
+    3300010: environment_building_qinghuacifangwu_01_h2
+    3300012: environment_building_qinghuacifangwu_01_h3
+    3300014: environment_building_qinghuacifangwu_01_i1
+    3300016: environment_building_qinghuacifangwu_01_i2
+    3300018: environment_building_qinghuacifangwu_01_i5
+    3300020: environment_building_qinghuacifangwu_01_i3
+    3300022: environment_building_qinghuacifangwu_01_i4
+    3300024: environment_building_qinghuacifangwu_01_i6
+    3300026: environment_building_qinghuacifangwu_01_i7
+    3300028: environment_building_qinghuacifangwu_01_e0
+    3300030: environment_building_qinghuacifangwu_01_e1
+    3300032: environment_building_qinghuacifangwu_01_e5
+    3300034: environment_building_qinghuacifangwu_01_e4
+    3300036: environment_building_qinghuacifangwu_01_e3
+    3300038: environment_building_qinghuacifangwu_01_e6
+    3300040: environment_building_qinghuacifangwu_01_f2
+    3300042: environment_building_qinghuacifangwu_01_f3
+    3300044: environment_building_qinghuacifangwu_01_f1
+    3300046: environment_building_qinghuacifangwu_01_f0
+    3300048: environment_building_qinghuacifangwu_01_d1
+    3300050: environment_building_qinghuacifangwu_01_b0
+    3300052: environment_building_qinghuacifangwu_01_d2
+    3300054: environment_building_qinghuacifangwu_01_d0
+    3300056: environment_building_qinghuacifangwu_01_c3
+    3300058: environment_building_qinghuacifangwu_01_c2
+    3300060: environment_building_qinghuacifangwu_01_c1
+    3300062: environment_building_qinghuacifangwu_01_c0
+    3300064: environment_building_qinghuacifangwu_01_a7
+    3300066: environment_building_qinghuacifangwu_01_a5
+    3300068: environment_building_qinghuacifangwu_01_a3
+    3300070: environment_building_qinghuacifangwu_01_a6
+    3300072: environment_building_qinghuacifangwu_01_a4
+    3300074: environment_building_qinghuacifangwu_01_a1
+    3300076: environment_building_qinghuacifangwu_01_a0
+    3300078: environment_building_qinghuacifangwu_01_a2
+    4300000: environment_building_qinghuacifangwu_01_a2
+    4300002: environment_building_qinghuacifangwu_01_a0
+    4300004: environment_building_qinghuacifangwu_01_a1
+    4300006: environment_building_qinghuacifangwu_01_a4
+    4300008: environment_building_qinghuacifangwu_01_a6
+    4300010: environment_building_qinghuacifangwu_01_a3
+    4300012: environment_building_qinghuacifangwu_01_a5
+    4300014: environment_building_qinghuacifangwu_01_a7
+    4300016: environment_building_qinghuacifangwu_01_c0
+    4300018: environment_building_qinghuacifangwu_01_c1
+    4300020: environment_building_qinghuacifangwu_01_c2
+    4300022: environment_building_qinghuacifangwu_01_c3
+    4300024: environment_building_qinghuacifangwu_01_d0
+    4300026: environment_building_qinghuacifangwu_01_d2
+    4300028: environment_building_qinghuacifangwu_01_b0
+    4300030: environment_building_qinghuacifangwu_01_d1
+    4300032: environment_building_qinghuacifangwu_01_f0
+    4300034: environment_building_qinghuacifangwu_01_f1
+    4300036: environment_building_qinghuacifangwu_01_f3
+    4300038: environment_building_qinghuacifangwu_01_f2
+    4300040: environment_building_qinghuacifangwu_01_e6
+    4300042: environment_building_qinghuacifangwu_01_e3
+    4300044: environment_building_qinghuacifangwu_01_e4
+    4300046: environment_building_qinghuacifangwu_01_e5
+    4300048: environment_building_qinghuacifangwu_01_e1
+    4300050: environment_building_qinghuacifangwu_01_e0
+    4300052: environment_building_qinghuacifangwu_01_i7
+    4300054: environment_building_qinghuacifangwu_01_i6
+    4300056: environment_building_qinghuacifangwu_01_i4
+    4300058: environment_building_qinghuacifangwu_01_i3
+    4300060: environment_building_qinghuacifangwu_01_i5
+    4300062: environment_building_qinghuacifangwu_01_i2
+    4300064: environment_building_qinghuacifangwu_01_i1
+    4300066: environment_building_qinghuacifangwu_01_h3
+    4300068: environment_building_qinghuacifangwu_01_h2
+    4300070: environment_building_qinghuacifangwu_01_h4
+    4300072: environment_building_qinghuacifangwu_01_h1
+    4300074: environment_building_qinghuacifangwu_01_h0
+    4300076: environment_building_qinghuacifangwu_01_g1
+    4300078: environment_building_qinghuacifangwu_01_g0
+    11100000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1785'
+    second: {fileID: 2100000, guid: 19fa000e337d91f48b73795f7fa80474, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1789'
+    second: {fileID: 2100000, guid: 97eb70b1ebb29304b8bf3f3e1052add2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1791'
+    second: {fileID: 2100000, guid: 8790721c57053a647a7c4bdb50e374ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1793'
+    second: {fileID: 2100000, guid: be94a9c7def590c4198622ca544f2e6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1801'
+    second: {fileID: 2100000, guid: 5b7a517a7cdfbd6448e85cdc1d53a380, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1805'
+    second: {fileID: 2100000, guid: c881508077d7a2047894d4800417dedb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1807'
+    second: {fileID: 2100000, guid: 589840b16ed6e3647b30dc0fab6e90ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1808'
+    second: {fileID: 2100000, guid: a785e36659bd2434ba9c2d2261f68c71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1809'
+    second: {fileID: 2100000, guid: 5b7a517a7cdfbd6448e85cdc1d53a380, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1810'
+    second: {fileID: 2100000, guid: 249ba9154ee9afa41983d5f5ed4c86d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1824'
+    second: {fileID: 2100000, guid: a26398dca492ed54798a4d6158ade78b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1825'
+    second: {fileID: 2100000, guid: 740b6847c0e889542ae7e2d9749734a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1826'
+    second: {fileID: 2100000, guid: c9a6b6c723c5ce440bc2f653497d9527, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1831'
+    second: {fileID: 2100000, guid: b193a6955bd0cae4294e72188fcd58a3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
